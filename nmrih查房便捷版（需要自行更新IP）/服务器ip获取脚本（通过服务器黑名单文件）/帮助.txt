@@ -1,0 +1,9 @@
+当前我的nmrih黑名单目录:
+C:\Program Files (x86)\Steam\steamapps\common\nmrih\nmrih\cfg\server_blacklist.txt
+
+#1.在搜索服务器目录按shift+左键点击列表第一个和最后一个（全选）
+#2.点击添加到服务器黑名单
+#3.从上边黑名单目录点击server_blacklist.txt文件并复制到此目录	*最关键的一条，后面需要文件...
+#4.运行此python代码进行服务器ip提取
+#5.将会将扫描的ip保存到SERVER.txt以便查找ip
+#6.将SERVER.txt文件替换你查房目录的SERVER.txt
